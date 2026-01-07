@@ -1,3 +1,7 @@
+## About
+Melody is an AI platform that delegates the tools to specific LLMs according to users' demand. 
+Tools included: image generation, video generation, music generation, PDF converter, web browsing, etc.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
